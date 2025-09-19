@@ -40,6 +40,7 @@ You only need a date picker (day, month, year) 📦 [react-native-rb-wheel-datep
 You need both date & time picker (date + hour/minute + AM/PM) 📦 [react-native-rb-wheel-datetime-picker](https://www.npmjs.com/package/react-native-rb-wheel-datetime-picker)
 
 👉 If you only need date selection, we recommend installing the lighter package [react-native-rb-wheel-datepicker](https://www.npmjs.com/package/react-native-rb-wheel-datepicker).
+
 👉 If you need both date and time selection, install [react-native-rb-wheel-datetime-picker](https://www.npmjs.com/package/react-native-rb-wheel-datetime-picker).
 
 ---
