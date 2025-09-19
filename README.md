@@ -8,7 +8,7 @@ It uses `FlatList` to simulate iOS-style scroll wheels, wrapped inside a bottom 
 ## 📷 Preview
 
 - Date Picker
-  
+
 <img width="252" height="237" alt="Screenshot 2025-09-19 at 5 42 01 PM" src="https://github.com/user-attachments/assets/055830f5-ebd2-4a15-98f1-bb5f2c540bcc" />
 
 - Time Picker
@@ -27,6 +27,20 @@ It uses `FlatList` to simulate iOS-style scroll wheels, wrapped inside a bottom 
 - 🔒 **Min/Max date support** to restrict selectable range
 - ⏱️ **Minute interval selection** (1, 5, 10, 15, 30…)
 - 📦 Built with `react-native-raw-bottom-sheet`
+
+---
+
+## 📌 Which package should I install?
+
+We provide two separate packages so you can choose based on your project requirements:
+
+Requirement Recommended Package
+You only need a date picker (day, month, year) 📦 [react-native-rb-wheel-datepicker](https://www.npmjs.com/package/react-native-rb-wheel-datepicker)
+
+You need both date & time picker (date + hour/minute + AM/PM) 📦 [react-native-rb-wheel-datetime-picker](https://www.npmjs.com/package/react-native-rb-wheel-datetime-picker)
+
+👉 If you only need date selection, we recommend installing the lighter package [react-native-rb-wheel-datepicker](https://www.npmjs.com/package/react-native-rb-wheel-datepicker).
+👉 If you need both date and time selection, install [react-native-rb-wheel-datetime-picker](https://www.npmjs.com/package/react-native-rb-wheel-datetime-picker).
 
 ---
 
