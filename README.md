@@ -5,6 +5,18 @@ It uses `FlatList` to simulate iOS-style scroll wheels, wrapped inside a bottom 
 
 ---
 
+## 📷 Preview
+
+- Date Picker
+  
+<img width="252" height="237" alt="Screenshot 2025-09-19 at 5 42 01 PM" src="https://github.com/user-attachments/assets/055830f5-ebd2-4a15-98f1-bb5f2c540bcc" />
+
+- Time Picker
+
+<img width="254" height="232" alt="Screenshot 2025-09-19 at 5 39 59 PM" src="https://github.com/user-attachments/assets/1fce511b-90d0-415a-b08f-2d6642c96c8d" />
+
+---
+
 ## ✨ Features
 
 - 🎡 **Wheel-style picker** for days, months, and years
@@ -143,16 +155,6 @@ export default function App() {
 | `backgroundColor`   | `string`                             | `"#FFFFFF"`     | Background color of the sheet                       |
 | `cancelButtonColor` | `string`                             | `"transparent"` | Background color of cancel button                   |
 | `fontFamily`        | `string`                             | `undefined`     | Apply custom font family                            |
-
----
-
-## 📷 Preview
-
-- Date Picker
-
-![Screenshot 2025-09-17 at 3 08 50 PM](https://github.com/user-attachments/assets/c6c4e1b2-1fcb-4f6e-9f70-7927fd68d06d)
-
-- Time Picker
 
 ---
 
